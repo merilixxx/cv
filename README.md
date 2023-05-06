@@ -1,1 +1,1 @@
-# https://github.com/merilixxx/cv/blob/main/cv.md
+# https://merilixxx.github.io/cv/cv
